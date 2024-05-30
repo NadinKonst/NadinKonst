@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Connect with me:
+- <a href="https://www.linkedin.com/in/nadezhda-konstantinova-7337b3ab/" target="blank">LinkedIn</a>
+- <a href="https://t.me/Nadin_Kons" target="blank">Telegram</a>
+- <a href="nadikon@gmail.com" target="blank">E-mail</a>
+
 
 <h3 align="left">🛠 Технологии:</h3>
 
