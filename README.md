@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on JS
 - 🌱 I’m currently learning React
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
 
 ### Connect with me:
 - <a href="https://www.linkedin.com/in/nadezhda-konstantinova-7337b3ab/" target="blank">LinkedIn</a>
