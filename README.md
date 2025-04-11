@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on JS
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on JS|React
+
 
 ### Connect with me:
 - <a href="https://www.linkedin.com/in/nadezhda-konstantinova-7337b3ab/" target="blank">LinkedIn</a>
